@@ -1,4 +1,4 @@
-name: hello-world
+name: Github Actions hello-world #workflow name
 on: push
 jobs:
   my-job:
