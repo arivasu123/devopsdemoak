@@ -1,0 +1,3 @@
+- Preparation
+- Training session
+- Closed
